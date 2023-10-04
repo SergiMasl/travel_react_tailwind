@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/travel_react_tailwind/static/css/main.e426bee0.css",
+    "main.js": "/travel_react_tailwind/static/js/main.caeff79c.js",
+    "index.html": "/travel_react_tailwind/index.html",
+    "main.e426bee0.css.map": "/travel_react_tailwind/static/css/main.e426bee0.css.map",
+    "main.caeff79c.js.map": "/travel_react_tailwind/static/js/main.caeff79c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e426bee0.css",
+    "static/js/main.caeff79c.js"
+  ]
+}
