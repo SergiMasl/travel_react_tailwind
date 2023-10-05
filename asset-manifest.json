@@ -1,14 +1,20 @@
 {
   "files": {
-    "main.css": "/travel_react_tailwind/static/css/main.829b87c1.css",
-    "main.js": "/travel_react_tailwind/static/js/main.7cae4268.js",
+    "main.css": "/travel_react_tailwind/static/css/main.b299c05f.css",
+    "main.js": "/travel_react_tailwind/static/js/main.df8f9551.js",
     "static/media/beachVid.mp4": "/travel_react_tailwind/static/media/beachVid.aaafa1c17fc79e9a6d45.mp4",
+    "static/media/keywest.jpg": "/travel_react_tailwind/static/media/keywest.1e30514942c6f50bea09.jpg",
+    "static/media/maldives2.jpg": "/travel_react_tailwind/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
+    "static/media/borabora.jpg": "/travel_react_tailwind/static/media/borabora.e6c4841f299365fdfa10.jpg",
+    "static/media/borabora2.jpg": "/travel_react_tailwind/static/media/borabora2.726ded1de37915f83c71.jpg",
+    "static/media/maldives.jpg": "/travel_react_tailwind/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
+    "static/media/maldives3.jpg": "/travel_react_tailwind/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
     "index.html": "/travel_react_tailwind/index.html",
-    "main.829b87c1.css.map": "/travel_react_tailwind/static/css/main.829b87c1.css.map",
-    "main.7cae4268.js.map": "/travel_react_tailwind/static/js/main.7cae4268.js.map"
+    "main.b299c05f.css.map": "/travel_react_tailwind/static/css/main.b299c05f.css.map",
+    "main.df8f9551.js.map": "/travel_react_tailwind/static/js/main.df8f9551.js.map"
   },
   "entrypoints": [
-    "static/css/main.829b87c1.css",
-    "static/js/main.7cae4268.js"
+    "static/css/main.b299c05f.css",
+    "static/js/main.df8f9551.js"
   ]
 }
